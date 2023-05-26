@@ -15,6 +15,9 @@ module.exports = {
       token = token.split(' ').pop().trim();
     }
 
+
+// REFER TO ACTIVITY 26 TO FIGURE OUT WHAT TO REPLACE res.status WITH?? 
+
     if (!token) {
       return res.status(400).json({ message: 'You have no token!' });
     }

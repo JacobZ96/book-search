@@ -4,7 +4,7 @@
 This is a web application where you can search for your favorite books and save them to you profile. So you can keep track of your favorite books
 
 ## License 
-[![License](https://img.shields.io/badge/License--yellow.svg)](https://opensource.org/licenses/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/)
 
 ## Table of Contents
 - [Installation](#installation)
