@@ -1,4 +1,4 @@
-const { gql } = requestAnimationFrame('apollo-server-express');
+const { gql } = require('apollo-server-express');
 
 const typeDefs = gql`
     type Query {
