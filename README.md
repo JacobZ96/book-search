@@ -34,6 +34,7 @@ MongooseDB, Apollo client and server, React, Nodejs
 ## Live Link
 
 ## Screenshot
+![Screenshot of webpage](./screenshot/week21.png "screen shot of webpage")
 
 ## Questions
 If you have any questing please contact me at jacobzea96@gmail.com, and you can find more of my work at https://github.com/JacobZ96. 
