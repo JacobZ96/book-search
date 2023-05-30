@@ -16,13 +16,13 @@ const LoginForm = () => {
     setUserFormData({ ...userFormData, [name]: value });
   };
 
-  useEffect(() => {
-    if (error) {
-      setShowAlert(true);
-    } else {
-      setShowAlert(false);
-    }
-  }, [error]);
+  // useEffect(() => {
+  //   if (error) {
+  //     setShowAlert(true);
+  //   } else {
+  //     setShowAlert(false);
+  //   }
+  // }, [error]);
 
   const [loginUser] = useMutation(LOGIN_USER);
 
